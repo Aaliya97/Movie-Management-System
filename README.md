@@ -1,0 +1,1 @@
+The Movie Management System is a Node.js application that allows users to manage a collection of movies in a MongoDB database. The system supports adding, deleting, updating, and retrieving movie records. This documentation provides an overview of the project structure, installation instructions, and details on each module.
