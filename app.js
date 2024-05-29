@@ -1,10 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
-const {MongoClient} = require('mongodb');
 const cors = require('cors')
 
-const uri = "mongodb://localhost:27017/";
+
 
 app.use(bodyParser.json());
 
